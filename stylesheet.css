@@ -1,0 +1,60 @@
+body {
+  background-color: #263238;
+}
+
+h1 {
+  width: 100%;
+  margin: 0 auto;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 32px;
+}
+
+#score {
+  color: #FFFFFF;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px 0;
+}
+
+table {
+  width: 400px;
+  height: 800px;
+  margin: 0 auto;
+}
+
+td {
+  width: 10%;
+  height: 5%;
+  background-color: #455A64;
+}
+
+.i {
+  background-color: #00BCD4;
+}
+
+.o {
+  background-color: #FFEB3B;
+}
+
+.t {
+  background-color: #9C27B0;
+}
+
+.s {
+  background-color: #4CAF50;
+}
+
+.z {
+  background-color: #F44336;
+}
+
+.j {
+  background-color: #2196F3;
+}
+
+.l {
+  background-color: #FF9800;
+}
+/*# sourceMappingURL=stylesheet.css.map */
